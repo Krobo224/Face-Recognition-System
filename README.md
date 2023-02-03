@@ -1,5 +1,5 @@
 # Face-Recognition-System
-The project is aimed to develop a face recognition system app using one shot learning technique
+The project is aimed to develop a face recognition system app using few shot learning technique
 The technique uses Siamese Neural Network for one shot learning purpose
 Dataset link: http://vis-www.cs.umass.edu/lfw/
 
